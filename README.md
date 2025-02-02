@@ -18,7 +18,5 @@ PathCancer is a web application designed to analyze mutation patterns in cancer 
 - **Frontend:** HTML, CSS
 - **Libraries:** Pandas, NumPy, PyVCF, BioPython, SciPy, Matplotlib, Seaborn
 
-## Installation
 
-  https://github.com/VicTorres23/PathCancer
 
